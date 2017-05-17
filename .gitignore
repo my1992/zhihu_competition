@@ -1,0 +1,26 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+data/*
+*.pyc
+.idea
+log.txt
+run_log.log
+dump.rdb
+nohup.out
+server
+server/*.log
+server/deploy/*
+law_qs
+.idea/deployment.xml
+.idea/misc.xml
+.idea/webServers.xml
+.idea/workspace.xml
+.idea/zhihu_competition.iml
+ljh_algorithm
+wmy_algorithm
+server_error_log.txt
+sms_port/sms_report.txt
+law_strategy_addons
+wxaddons
+law_inference_addons
